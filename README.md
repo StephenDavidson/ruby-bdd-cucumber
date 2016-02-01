@@ -1,4 +1,5 @@
 # Ruby bdd test automation example
+[![Build Status](https://travis-ci.org/StephenDavidson/ruby-bdd-cucumber.svg?branch=master)](https://travis-ci.org/StephenDavidson/ruby-bdd-cucumber)
 
 ## setup
 
