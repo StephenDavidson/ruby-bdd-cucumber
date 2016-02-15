@@ -4,7 +4,7 @@
 ## setup
 
 ```shell
-git clone git@github.com:StephenDavidson/cucumber-examples.git
+git clone git@github.com:StephenDavidson/ruby-bdd-cucumber.git
 cd cucumber-examples/ruby
 gem install bundler
 bundle install
