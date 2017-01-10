@@ -21,5 +21,5 @@ cucumber features/search.feature # run the search.feature file only
 ## env variables
 variable  | default value
 ------------- | -------------
-BROWSER  | firefox
+BROWSER  | chrome
 ENV  | production
