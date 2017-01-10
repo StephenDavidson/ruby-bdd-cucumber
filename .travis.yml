@@ -1,6 +1,9 @@
 language: Ruby
 rvm:
   - 2.4.0-rc1
+os: linux
+dist: trusty
+sudo: required
 addons:
   apt:
     sources:
