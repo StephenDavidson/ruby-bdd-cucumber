@@ -1,6 +1,11 @@
 # Ruby bdd test automation example
 [![Build Status](https://travis-ci.org/StephenDavidson/ruby-bdd-cucumber.svg?branch=master)](https://travis-ci.org/StephenDavidson/ruby-bdd-cucumber)
 
+## prerequisites
+
+* Ruby >=2.2
+* [Geckodriver](github.com/mozilla/geckodriver/releases) if on firefox version >48
+
 ## setup
 
 ```shell
