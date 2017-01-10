@@ -1,6 +1,12 @@
 language: Ruby
 rvm:
   - 2.4.0-rc1
+addons:
+  apt:
+    sources:
+      - google-chrome
+    packages:
+      - google-chrome-stable
 before_script:
   - "export DISPLAY=:99.0"
   - "sh -e /etc/init.d/xvfb start"
