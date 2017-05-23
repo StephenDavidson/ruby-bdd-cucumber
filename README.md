@@ -3,7 +3,7 @@
 
 ## prerequisites
 
-* Ruby >=2.2.2
+* Ruby >=2.4.0
 * [Geckodriver](github.com/mozilla/geckodriver/releases) if on firefox version >48
 
 ## setup

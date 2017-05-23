@@ -1,13 +1,11 @@
 language: Ruby
 rvm:
-  - 2.4.0-rc1
+  - 2.4.0
 os: linux
 dist: trusty
 sudo: required
 addons:
   apt:
-    sources:
-      - google-chrome
     packages:
       - google-chrome-stable
 before_script:
